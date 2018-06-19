@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\open\OSPanel\domains\localhost\selena\selene.clpprj">
+	<settings><PM_URL><![CDATA[C:/open/OSPanel/domains/localhost/maria/]]></PM_URL><PM_HOME_URL><![CDATA[C:/open/OSPanel/domains/localhost/maria/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\open\OSPanel\domains\localhost\selena\system\core\controllers\Shared_Controller.php;"/><added value=""/><lastopfiles>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\controllers\Auth.php"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\parts\form.php"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\create_user.php"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\ion_auth.php"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\login.php"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\login.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\application\models\Ion_auth_model.php">
+			<todo name="TODO Third parameter was string type $description; this following code is to maintain backward comp" pos="3;2229"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\core\Loader.php">
+			<todo name="todo Figure out a way to move this to the constructor" pos="5;148"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\core\Output.php">
+			<todo name="todo We need to figure out how to permit headers to be cached." pos="5;209"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_forge.php">
+			<todo name="todo Remove deprecated $_after option in 3.1+" pos="5;555"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_query_builder.php">
+			<todo name="@todo error" pos="4;2075"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_driver.php">
+			<todo name="todo Implement use of SQLite3::querySingle(), if needed" pos="5;120"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_forge.php">
+			<todo name="todo implement drop_column(), modify_column()" pos="5;135"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\helpers\string_helper.php">
+			<todo name="todo: remove in 3.1+" pos="19;202"/>
+			<todo name="todo: remove in 3.1+" pos="20;205"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\helpers\url_helper.php">
+			<todo name="todo Remove old 'dash' and 'underscore' usage in 3.1+." pos="5;472"/>
+		</todofile>
+		<todofile name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Xmlrpc.php">
+			<todo name="@todo - this needs to be made more general purpose" pos="6;1572"/>
+		</todofile>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\drivers\Session_redis_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\drivers\Session_memcached_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\drivers\Session_files_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\drivers\Session_database_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\drivers\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\Session_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\Session.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Session\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_wincache.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_redis.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_memcached.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_file.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_dummy.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_apcu.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\drivers\Cache_apc.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Cache\Cache.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Zip.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Xmlrpcs.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Xmlrpc.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\User_agent.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Upload.php" crc="1528535247"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Unit_test.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Typography.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Trackback.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Table.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Profiler.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Parser.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Pagination.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Migration.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Image_lib.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Ftp.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Form_validation.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Encryption.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Encrypt.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Email.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\libraries\Calendar.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\upload_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\unit_test_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\profiler_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\pagination_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\number_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\migration_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\imglib_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\ftp_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\form_validation_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\email_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\db_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\date_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\english\calendar_lang.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\language\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\xml_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\url_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\typography_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\text_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\string_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\security_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\path_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\number_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\language_helper.php" crc="1528957404"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\inflector_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\html_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\form_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\file_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\download_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\directory_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\date_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\cookie_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\captcha_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\helpers\array_helper.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\fonts\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlsrv\sqlsrv_utility.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlsrv\sqlsrv_result.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlsrv\sqlsrv_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlsrv\sqlsrv_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlsrv\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_utility.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_result.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\sqlite3_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\sqlite3\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\postgre\postgre_utility.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\postgre\postgre_result.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\postgre\postgre_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\postgre\postgre_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\postgre\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php" crc="1526895641"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\subdrivers\index.html" crc="1526895641"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\pdo_utility.php" crc="1526895640"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\pdo_result.php" crc="1526895640"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\pdo_forge.php" crc="1526895640"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\pdo_driver.php" crc="1526895639"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\pdo\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\odbc\odbc_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\odbc\odbc_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\odbc\odbc_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\odbc\odbc_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\odbc\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\oci8\oci8_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\oci8\oci8_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\oci8\oci8_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\oci8\oci8_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\oci8\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysqli\mysqli_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysqli\mysqli_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysqli\mysqli_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysqli\mysqli_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysqli\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysql\mysql_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysql\mysql_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysql\mysql_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysql\mysql_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mysql\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mssql\mssql_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mssql\mssql_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mssql\mssql_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mssql\mssql_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\mssql\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\ibase\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\ibase\ibase_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\ibase\ibase_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\ibase\ibase_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\ibase\ibase_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\cubrid\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\cubrid\cubrid_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\cubrid\cubrid_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\cubrid\cubrid_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\cubrid\cubrid_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\drivers\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_utility.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_result.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_query_builder.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_forge.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_driver.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB_cache.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\database\DB.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\controllers\User_Controller.php" crc="1529175903"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\controllers\My_Controller.php" crc="1529175975"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\controllers\Ajax_Controller.php" crc="1529175829"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\controllers\Admin_Controller.php" crc="1529175812"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\compat\standard.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\compat\password.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\compat\mbstring.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\compat\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\compat\hash.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Utf8.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\URI.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Security.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Router.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Output.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Model.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Log.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Loader.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Lang.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Input.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\index.html" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Hooks.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Exceptions.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Controller.php" crc="1529175845"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Config.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Common.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\CodeIgniter.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\core\Benchmark.php" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\index.html" crc="1526895642"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\system\.htaccess" crc="1526895638"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\revslider.js" crc="1523948200"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\owl.carousel.min.js" crc="1523948200"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\mob-menu.js" crc="1523948200"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\main.js" crc="1524249660"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\jquery.min.js" crc="1523948200"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\jquery-ui.js" crc="1523948202"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\countdown.js" crc="1523948200"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\cloud-zoom.js" crc="1523948202"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\js\bootstrap.min.js" crc="1523948202"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\fonts\roboto\font.css" crc="1523948114"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\fonts\montserrat\font.css" crc="1523948110"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\fonts\great-vibes\font.css" crc="1523948108"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\fonts\awesome\font-awesome.css" crc="1523948106"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\styles.css" crc="1524250150"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\revslider.css" crc="1524137974"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\responsive.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\pretty-checkbox.min.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\owl.carousel.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\jtv-mob-menu.css" crc="1524248842"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\jquery.bxslider.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\jquery-ui.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\flexslider.css" crc="1523948100"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\fancybox.css" crc="1523948102"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\bootstrap.min.css" crc="1523948102"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\static\css\blog.css" crc="1524044310"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\slider.php" crc="1529172166"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\login.php" crc="1529259124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\list.php" crc="1529172373"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\header.php" crc="1529172671"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\footer.php" crc="1529171320"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\store\body.php" crc="1529172463"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\parts\form.php" crc="1529257383"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\index.html" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\error_php.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\error_general.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\error_exception.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\error_db.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\html\error_404.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\index.html" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\error_php.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\error_general.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\error_exception.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\error_db.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\cli\error_404.php" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\errors\index.html" crc="1517411253"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\email\new_password.tpl.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\email\forgot_password.tpl.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\email\activate.tpl.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\reset_password.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\login.php" crc="1529259126"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\index.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\forgot_password.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\edit_user.php" crc="1526915580"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\edit_group.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\deactivate_user.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\create_user.php" crc="1526899982"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\create_group.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\views\auth\change_password.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\third_party\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\models\Ion_auth_model.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\models\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\models\Crud.php" crc="1528715696"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\migrations\001_install_ion_auth.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\logs\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Usermenu.php" crc="1528970213"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Unsolicatedtabmenu.php" crc="1528966333"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Topmenu.php" crc="1528970219"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Profiletabmenu.php" crc="1528962627"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Pnttabmenu.php" crc="1528959718"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Pnctabmenu.php" crc="1528721067"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Mechanictabmenu.php" crc="1527860789"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Languagemenu.php" crc="1527624223"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Hrtabmenu.php" crc="1528962501"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\menu\Backmenu.php" crc="1529061097"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\Ion_auth.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\InputArray.php" crc="1529174245"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\libraries\Bcrypt.php" crc="1526895124"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\english\site_lang.php" crc="1529055483"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\english\ion_auth_lang.php" crc="1526915410"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\english\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\english\auth_lang.php" crc="1526907922"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\english\admin_lang.php" crc="1529159863"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\language\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\hooks\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\helpers\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\helpers\date_helper.php" crc="1528275971"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\core\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\controllers\Welcome.php" crc="1529172801"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\controllers\Auth.php" crc="1529259102"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\user_agents.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\routes.php" crc="1529173868"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\profiler.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\mimes.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\migration.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\memcached.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\ion_auth.php" crc="1529258760"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\hooks.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\foreign_chars.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\doctypes.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\database.php" crc="1529167348"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\constants.php" crc="1529056914"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\config.php" crc="1529167339"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\autoload.php" crc="1529167507"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\config\_database.php" crc="1527175719"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\cache\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\index.html" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\application\.htaccess" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\missed_lang.php" crc="1529259024"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\index.php" crc="1526894951"/>
+		<file name="C:\open\OSPanel\domains\localhost\selena\.htaccess" crc="1526897102"/>
+	</filescache>
+</project>
