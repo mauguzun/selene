@@ -471,4 +471,3 @@ $config['time_reference'] = 'local';
 $config['proxy_ips'] = '';
 
 
-

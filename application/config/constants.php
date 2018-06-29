@@ -85,9 +85,9 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically - assigned error code
 
 
-define('KEYWORDS_JSON','keywords_json.json'); // highest automatically - assigned error code
-define('GENERIC_JSON','generic_json.json'); // highest automatically - assigned error code
-define('EMAIL_JSON','email_json.json') ; // highest automatically - assigned error code
+define('PRODUCTS_FOLDER','./static/products/'); // highest automatically - assigned error code
+define('PRODUCTS_URL','static/products/'); // highest automatically - assigned error code
+define('SHIPPING',200); // highest automatically - assigned error code
 
 /**
 *  our constant
